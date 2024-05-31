@@ -1,0 +1,7 @@
+@import "https://cdn.jsdelivr.net/npm/@vue-flow/core@1.33.7/dist/style.css";
+@import "https://cdn.jsdelivr.net/npm/@vue-flow/core@1.33.7/dist/theme-default.css";
+
+.vueflow-container {
+  height: 500px;
+  background-color: palegoldenrod;
+}
