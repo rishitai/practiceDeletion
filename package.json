@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vue-flow/controls": "^1.1.2",
     "@vue-flow/core": "^1.34.0",
     "vue": "^3.4.21"
   },
